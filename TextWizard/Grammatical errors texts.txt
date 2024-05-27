@@ -1,0 +1,25 @@
+--## Use the below sentences to check the grammar corrector ##--
+
+
+1. "Last night I watch a movie with my cousins. We enjoys the film and eats lots of popcorns. My cousin sayed that she likes the main actor. After the movie, we goes to a cafe and order desserts. They was very tasty. We talks about the film until it was late. When I reaches home, my dad asks what I did, and I telled him about the movie."
+
+2. "This morning I wakes up late and hurrys to school. I forgetted my homework at home. My teacher asks me why I don’t have it, and I says I left it. She was not happy. In class, we studies about the solar system. My friend whispers to me that he doesn’t understands it. I explains it to him, and he thank me."
+
+3. "On the weekend, I visits my grandparents. They lives in a big house near the lake. My grandma makes us pancakes for breakfast. They was delicious. My grandpa takes us fishing. We catches several fishes. Later, we watches a football game on TV. When I comes home, I was very tired."
+
+4. "During the holidays, my family and I travels to the mountains. We stayed in a cozy cabin. Each day, we hiked through the forest. We seen many deers and squirrels. My sister says she want to take a picture of them. We explores until evening. When we returns to the cabin, we was hungry and eat dinner."
+
+5. "Last Sunday, I goes to the beach with my friends. We swims in the ocean and builds sandcastles. My friend bringed a kite, and we flied it. It was fun. We eats lunch at a beachside cafe. They serves us fresh seafoods. We stays until the sun setted. When I gets home, I tells my parents about the fun day."
+
+6. "Yesterday evening, I attends a concert in the city. My favorite band was playing. We arrives early to get good seats. The music was amazing, and everyone dances. My friend says he never seen a better show. After the concert, we eats at a diner. When I reaches home, I feels very happy."
+
+7. "Last night, I readed a book before going to sleep. It was about a detective solving a mystery. I couldn’t puts it down. My mom tells me to go to bed, but I wants to finish it. I stays up late reading. The next morning, I was tired in school. My teacher notices and asks if I was okay. I says I didn’t sleep well."
+
+8. "On Friday, I plays soccer with my friends at the park. We divides into two teams. My team scores three goals. It was a great game. My friend says he enjoys playing very much. After the match, we drinks lemonade. It was refreshing. When I comes home, my brother asks who winned the game. I tells him it was my team."
+
+9. "This morning, I cooks breakfast for my family. I makes pancakes, eggs, and bacon. They was very happy. My sister helps me set the table. We eats together and talks about our plans for the day. My dad says I am a good cook. After breakfast, I cleans the kitchen. It was a busy morning."
+
+10. "Yesterday, I takes my dog for a walk in the park. He loves to runs around and chase squirrels. My friend joins me with her dog. They plays together. We sits on a bench and chats. My friend tells me she is getting a new puppy. I says I can’t waits to see it. When I gets home, my dog was tired and falls asleep."
+
+These texts should help you test the grammatical error detection capabilities of the web app.
+

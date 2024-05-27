@@ -1,0 +1,9 @@
+happytransformer  
+streamlit
+streamlit_option_menu
+streamlit_lottie
+transformers
+sentence-splitter
+torch
+pyperclip
+nltk

@@ -35,7 +35,7 @@ The project is organized as follows:
 ## Pipeline Diagram
 Below is a visualization of the text processing pipeline:
 
-```mermaid
+
 graph TD
   A[User Interaction] -->|Input Text| B{User Choice}
   B -->|Grammar Correction| C[Grammar Corrector]

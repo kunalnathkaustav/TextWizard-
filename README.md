@@ -21,21 +21,19 @@ The project is organized as follows:
 - `README.md`: Project documentation and overview.
 - ## Usage
 
-1. **Access the Web Application**:
-   Open your web browser and go to `http://127.0.0.1:5000`.
 
-2. **Input Text and Choose an Option**:
+1. **Input Text and Choose an Option**:
    - Enter your text in the provided input box.
    - Select one of the options: Grammar Correction, Paraphrasing, or Summarization.
    - Click the "Submit" button.
 
-3. **View Results**:
+2. **View Results**:
    - The processed text will be displayed on the screen.
 
 ## Pipeline Diagram
 Below is a visualization of the text processing pipeline:
 
-
+```mermaid
 graph TD
   A[User Interaction] -->|Input Text| B{User Choice}
   B -->|Grammar Correction| C[Grammar Corrector]
@@ -51,6 +49,7 @@ graph TD
   H --> I[Output Generation]
   
   I --> J[Display Processed Text]]
+```
 
 ### Detailed Workflow
 

@@ -52,7 +52,7 @@ graph TD
   style I fill:#f9f9f9,stroke:#333,stroke-width:2px;
   style J fill:#9ac9fb,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5;
   
-  C --> F(T5-base/vennify-grammar-corrector)
+  C --> F(T5-base)
   D --> G(Pegasus Model)
   E --> H(BART Model)
   

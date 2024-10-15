@@ -54,7 +54,7 @@ graph TD
   
   C --> F(T5-base)
   D --> G(Pegasus Model)
-  E --> H(BART Model)
+  E --> H(BERT Model)
   
   F --> I[Output Generation]
   G --> I[Output Generation]
@@ -77,7 +77,7 @@ graph TD
    - **Paraphrasing**:
      - Uses the Pegasus model.
    - **Summarization**:
-     - Uses the BART model.
+     - Uses the BERT model.
 
 4. **Output Generation**:
    - The processed text is returned to the web application and displayed to the user.
